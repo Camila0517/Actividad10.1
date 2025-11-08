@@ -1,0 +1,21 @@
+body {
+    background-color: #f0f2f5;
+    padding-top: 50px;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+#resultado h2 {
+    font-size: 2.1rem; 
+    font-weight: 700;
+    color: #0d6efd;
+    margin-bottom: 0;
+}
+
+#resultado {
+    min-height: 80px; 
+    padding-top: 10px;
+}
